@@ -1,0 +1,24 @@
+{
+  "name": "deletebot",
+  "version": "1.0.0",
+  "description": "A bot that lets you delete messages from a certain user or starting with a certain keyword (to delete bot calls)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sansh20/deleteBot.git"
+  },
+  "author": "Sanyam Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sansh20/deleteBot/issues"
+  },
+  "homepage": "https://github.com/Sansh20/deleteBot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  }
+}
